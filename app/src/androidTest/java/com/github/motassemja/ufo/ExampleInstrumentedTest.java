@@ -1,4 +1,4 @@
-package com.githun.motassemja.ufo;
+package com.github.motassemja.ufo;
 
 import android.content.Context;
 import androidx.test.InstrumentationRegistry;
