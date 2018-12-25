@@ -1,4 +1,4 @@
-package com.githun.motassemja.ufo;
+package com.github.motassemja.ufo;
 
 import org.junit.Test;
 

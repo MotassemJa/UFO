@@ -3,6 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+<<<<<<< HEAD
+    android:layout_height="match_parent"
+    tools:context=".ui.activities.MainActivity">
+
+=======
     android:layout_height="match_parent">
 
 
@@ -29,4 +34,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/nav_graph" />
+>>>>>>> 951063c3de64a25a159302463d09689772cf3ca6
 </androidx.constraintlayout.widget.ConstraintLayout>
