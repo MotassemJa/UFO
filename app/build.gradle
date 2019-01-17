@@ -4,7 +4,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.githun.motassemja.ufo"
+        applicationId "com.github.motassemja.ufo"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
